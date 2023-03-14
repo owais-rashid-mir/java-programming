@@ -1,0 +1,15 @@
+package test2;
+
+public class test2 {
+
+	static{
+		System.out.println("ststic block.");
+	}
+	
+	public static void main(int[] args) {
+		System.out.println("main method.");
+	}
+	
+	
+
+}

@@ -1,0 +1,21 @@
+package test2;
+
+public class test2 {
+
+	public static void main(int[] args) {
+		System.out.println("integer main method.");
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("Original main method.");
+	}
+	
+	
+	
+	public static void main(int x, int y) {
+		System.out.println("two int arg method.");
+	}
+	
+	
+
+}
